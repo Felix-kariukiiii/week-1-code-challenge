@@ -1,0 +1,18 @@
+AUTHOR : Felix kariuki
+challenge 1 calculatingStudentGrade
+its a java script function that awards student grades using the criteria below
+A: Marks between 79 and 100 
+B-: Marks between 60 and 78 
+C-: Marks between 49 and 59 
+D-: Marks between 40 and 48 
+E: Marks below 40
+i chose to use the else if loop to assign different grades to diferent marks scored by students.
+
+
+challenge 2 calculating speed
+is a java script function that helps checks the speed of vehicles and calculated demerit
+ points based on the vehicle 
+speed to the speed limit.
+The function takes a single argument speed, which represents the vehicle's current 
+speed in kilometers per hour (km/h). It then compares this speed to a predefined speed limit
+ and calculates demerit points accordingly.
